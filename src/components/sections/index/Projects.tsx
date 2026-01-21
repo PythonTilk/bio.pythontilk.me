@@ -11,8 +11,8 @@ export default function Projects() {
     },
     {
       title: "Highfactory",
-      description: "A Cheap Worldwide Game Hosting Service",
-      link: "https://highfactory.tilk.tech",
+      description: "A Cheap Worldwide Game Hosting Service(offline)",
+      link: "https://www.youtube.com/shorts/YcsuyjKOVjU",
       image: "/prismicon.png"
     },
     {
@@ -23,8 +23,8 @@ export default function Projects() {
     },
     {
       title: "Valentines Day",
-      description: "A simple site to ask someone out for valentines day",
-      link: "https://valentines.tilk.tech",
+      description: "A simple site to ask someone out for valentines day(offline)",
+      link: "https://www.youtube.com/shorts/YcsuyjKOVjU",
       image: "/cats-cat-with-flower.png"
     }
   ];
